@@ -6,7 +6,7 @@ Vue.use(VueRouter)
 
 const routes = [
   {
-    path: '/cats',
+    path: '/',
     name: 'cats',
     component: Cats
   },

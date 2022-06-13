@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <nav>
-      <router-link to="/cats">Все котики</router-link> |
+      <router-link to="/">Все котики</router-link> |
       <router-link to="/favorites">Любимые котики</router-link>
     </nav>
     <router-view/>
